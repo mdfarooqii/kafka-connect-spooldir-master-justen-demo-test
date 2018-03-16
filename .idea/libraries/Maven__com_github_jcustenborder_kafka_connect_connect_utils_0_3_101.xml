@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.jcustenborder.kafka.connect:connect-utils:0.3.101">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/jcustenborder/kafka/connect/connect-utils/0.3.101/connect-utils-0.3.101.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/jcustenborder/kafka/connect/connect-utils/0.3.101/connect-utils-0.3.101-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/jcustenborder/kafka/connect/connect-utils/0.3.101/connect-utils-0.3.101-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
